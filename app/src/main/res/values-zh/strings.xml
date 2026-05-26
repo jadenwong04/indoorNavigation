@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CampusARQuest</string>
+    <string name="menu_open_2d_map">打开2D地图</string>
+    <string name="menu_close_2d_map">关闭2D地图</string>
+    <string name="menu_turn_on_voice">开启语音导航</string>
+    <string name="menu_turn_off_voice">关闭语音导航</string>
+    <string name="navigation_drawer_open">抽屉已打开</string>
+    <string name="navigation_drawer_close">抽屉已关闭</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">你好，空白片段</string>
+    <string name="floor_map_id">楼层地图</string>
+    <string name="poi_layout_id">兴趣点布局</string>
+    <string name="poi_title_id">兴趣点标题</string>
+    <string name="poi_fill_id">兴趣点填充</string>
+    <string name="dest_icon_id">目的地图标布局</string>
+    <string name="dest_icon_img">目的地图标图片</string>
+    <string name="destination_layout_id">目的地布局</string>
+    <string name="user_position_icon_id">用户位置图标ID</string>
+    <string name="user_position_icon_img">用户位置图标图片</string>
+    <string name="turn_left">向左转</string>
+    <string name="turn_right">向右转</string>
+    <string name="walk_straight">直走</string>
+    <string name="go_up">上一层楼</string>
+    <string name="go_down">下一层楼</string>
+    <string name="walk_backward">向后走</string>
+    <string name="complete">您已到达目的地。</string>
+
+    <string name="menu_change_language">更改语言</string>
+    <string name="direction">方向</string>
+    <string name="time_distance">剩余时间 | 剩余距离</string>
+    <string name="arrival_time">到达时间</string>
+    <string name="destination">目的地</string>
+    <string name="stop">停止</string>
+    <string name="move_forward_dir">向前移动</string>
+    <string name="turn_right_dir">向右转</string>
+    <string name="move_backward_dir">向后移动</string>
+    <string name="turn_left_dir">向左转</string>
+    <string name="to_upper_floor_dir">到达上层</string>
+    <string name="to_lower_floor_dir">到达下层</string>
+    <string name="complete_dir">完成</string>
+    <string name="unknown_direction_dir">未知方向</string>
+
+</resources>

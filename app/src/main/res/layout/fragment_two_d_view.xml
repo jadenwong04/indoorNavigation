@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.mapbox.mapboxsdk.maps.MapView android:id="@+id/map_view" android:layout_width="match_parent" android:layout_height="match_parent" app:mapbox_cameraTargetLat="3.0647" app:mapbox_cameraTargetLng="101.6005" app:mapbox_cameraZoom="20"/>
+</FrameLayout>

@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">CampusARQuest</string>
+    <string name="menu_open_2d_map">Open 2D Map</string>
+    <string name="menu_close_2d_map">Close 2D Map</string>
+    <string name="menu_turn_on_voice">Turn On Voice Navigation</string>
+    <string name="menu_turn_off_voice">Turn Off Voice Navigation</string>
+    <string name="navigation_drawer_open">Drawer is opened</string>
+    <string name="navigation_drawer_close">Drawer is closed</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="floor_map_id">floor-map</string>
+    <string name="poi_layout_id">poi-layout</string>
+    <string name="poi_title_id">poi-title</string>
+    <string name="poi_fill_id">poi-fill</string>
+    <string name="dest_icon_id">destination-icon-layout</string>
+    <string name="dest_icon_img">destination-icon-img</string>
+    <string name="destination_layout_id">destination-layout</string>
+    <string name="user_position_icon_id">user-position-icon-id</string>
+    <string name="user_position_icon_img">user-position-icon-img</string>
+    <string name="turn_left">Turn left</string>
+    <string name="turn_right">Turn right</string>
+    <string name="walk_straight">Walk straight.</string>
+    <string name="go_up">Go up one floor.</string>
+    <string name="go_down">Go down one floor.</string>
+    <string name="walk_backward">Walk backward.</string>
+    <string name="complete">You have reach your destination.</string>
+
+    <string name="menu_change_language">Change Language</string>
+    <string name="direction">Direction</string>
+    <string name="time_distance">Time left | Distance left</string>
+    <string name="arrival_time">Arrival Time</string>
+    <string name="destination">Destination</string>
+    <string name="stop">STOP</string>
+    <string name="move_forward_dir">Move Forward</string>
+    <string name="turn_right_dir">Turn Right</string>
+    <string name="move_backward_dir">Move Backward</string>
+    <string name="turn_left_dir">Turn Left</string>
+    <string name="to_upper_floor_dir">To Upper Floor</string>
+    <string name="to_lower_floor_dir">To Lower Floor</string>
+    <string name="complete_dir">Complete</string>
+    <string name="unknown_direction_dir">Unknown Direction</string>
+</resources>

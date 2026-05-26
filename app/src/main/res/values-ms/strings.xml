@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CampusARQuest</string>
+    <string name="menu_open_2d_map">Buka Peta 2D</string>
+    <string name="menu_close_2d_map">Tutup Peta 2D</string>
+    <string name="menu_turn_on_voice">Hidupkan Navigasi Suara</string>
+    <string name="menu_turn_off_voice">Matikan Navigasi Suara</string>
+    <string name="navigation_drawer_open">Laci dibuka</string>
+    <string name="navigation_drawer_close">Laci ditutup</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Halo fragmen kosong</string>
+    <string name="floor_map_id">peta-lantai</string>
+    <string name="poi_layout_id">susunatur-atau</string>
+    <string name="poi_title_id">tajuk-atau</string>
+    <string name="poi_fill_id">isi-atau</string>
+    <string name="dest_icon_id">susunatur-ikon-destinasi</string>
+    <string name="dest_icon_img">imej-ikon-destinasi</string>
+    <string name="destination_layout_id">susunatur-destinasi</string>
+    <string name="user_position_icon_id">ikon-posisi-pengguna</string>
+    <string name="user_position_icon_img">imej-ikon-posisi-pengguna</string>
+    <string name="turn_left">Belok kiri.</string>
+    <string name="turn_right">Belok kanan.</string>
+    <string name="walk_straight">Jalan lurus.</string>
+    <string name="go_up">Naik satu tingkat.</string>
+    <string name="go_down">Turun satu tingkat.</string>
+    <string name="walk_backward">Berjalan ke belakang.</string>
+    <string name="complete">Anda telah sampai ke destinasi anda.</string>
+
+    <string name="menu_change_language">Tukar Bahasa</string>
+    <string name="direction">Arah</string>
+    <string name="time_distance">Masa tinggal | Jarak tinggal</string>
+    <string name="arrival_time">Masa Ketibaan</string>
+    <string name="destination">Destinasi</string>
+    <string name="stop">BERHENTI</string>
+    <string name="move_forward_dir">Bergerak ke Hadapan</string>
+    <string name="turn_right_dir">Belok Kanan</string>
+    <string name="move_backward_dir">Bergerak ke Belakang</string>
+    <string name="turn_left_dir">Belok Kiri</string>
+    <string name="to_upper_floor_dir">Ke Tingkat Atas</string>
+    <string name="to_lower_floor_dir">Ke Tingkat Bawah</string>
+    <string name="complete_dir">Selesai</string>
+    <string name="unknown_direction_dir">Arah Tidak Dikenali</string>
+
+</resources>
